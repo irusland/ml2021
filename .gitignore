@@ -4,3 +4,5 @@ __pycache__/
 catboost_info
 catboost_info/
 .idea
+.DS_Store
+cats-vs-dogs
