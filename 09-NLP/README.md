@@ -9,6 +9,10 @@
 
 ## Запись 
 
+* [Home9](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/09-NLP/Home9.ipynb)
+
+## Запись 
+[Youtube](https://www.youtube.com/watch?v=pwSRxr07jxk)
 
 ## План
 * Эмбеддинги (1 час)
@@ -17,4 +21,4 @@
 
 
 ## Домашнее задание
-Дедлайн 10.05.21 в 9 утра
+Дедлайн 17.05.21 в 9 утра
